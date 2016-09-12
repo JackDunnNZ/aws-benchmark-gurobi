@@ -1,0 +1,12 @@
+instance_type,command
+m3.medium,chmod +x RUN.sh && ./RUN.sh
+m4.large,chmod +x RUN.sh && ./RUN.sh
+m4.xlarge,chmod +x RUN.sh && ./RUN.sh
+m4.2xlarge,chmod +x RUN.sh && ./RUN.sh
+m4.4xlarge,chmod +x RUN.sh && ./RUN.sh
+m4.10xlarge,chmod +x RUN.sh && ./RUN.sh
+c4.large,chmod +x RUN.sh && ./RUN.sh
+c4.xlarge,chmod +x RUN.sh && ./RUN.sh
+c4.2xlarge,chmod +x RUN.sh && ./RUN.sh
+c4.4xlarge,chmod +x RUN.sh && ./RUN.sh
+c4.8xlarge,chmod +x RUN.sh && ./RUN.sh
