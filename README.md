@@ -9,7 +9,7 @@ It depends on the [aws-runner](https://github.com/JackDunnNZ/aws-runner) to disp
 From the `aws-runner` directory, run
 
 ```
-python dispatcher.py miplib <aws-bench-path>/aws-config/jobdetails.csv <aws-bench-path>/aws-config/INSTALL.sh <aws-bench-path>/aws-config/remote/ out.csv verbose
+python dispatcher.py miplib <aws-bench-path>/aws-config/jobdetails.csv <aws-bench-path>/aws-config/INSTALL.sh <aws-bench-path>/aws-config/remote/ out.csv --create --dispatch --verbose
 ```
 
 where `<aws-bench-path>` is the path to this folder.
